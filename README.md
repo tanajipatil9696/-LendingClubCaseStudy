@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case study
+>Risks Analysis and Identification of default applicants from historical data using EDA is the aim of this case study.
 
 
 ## Table of Contents
@@ -11,26 +11,22 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+This project aims to analyze risks and Identify the default applicants from historical data using EDA.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+The EDA analysis performed in this case study gives meaningful and valuable insight to make a loan approval decisions to avoid loss and risks.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Python
+Pandas 
+Numpy
+Matplotlib
+Seaborn
+Jupyter Notebook
+
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
